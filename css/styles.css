@@ -12,3 +12,7 @@ p {
   float: right;
   background-color: yellow;
 }
+
+.left{
+  float:left;
+}
