@@ -1,0 +1,14 @@
+img.shrink{
+  width: 400px;
+  height: auto;
+  margin: auto;
+}
+
+p {
+  color: red;
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+}
