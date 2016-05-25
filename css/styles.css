@@ -2,6 +2,13 @@ img.shrink{
   width: 400px;
   height: auto;
   margin: auto;
+  border: 2px solid green;
+  padding: 20px;
+}
+
+img.black{
+  border: 2px dashed black;
+  padding: 20px;
 }
 
 p {
@@ -9,10 +16,13 @@ p {
 }
 
 .sidebar {
+  padding: 2px;
+  margin: 2px;
+  border: 2px solid black;
   float: right;
   background-color: yellow;
 }
 
-.left{
+.left {
   float:left;
 }
